@@ -1,4 +1,4 @@
-# Rozgar Seva (रोजगार सेवा) - Daily Wage Worker Marketplace
+# Rozgar Seva  - Daily Wage Worker Marketplace
 
 Rozgar Seva is a full-stack production-style mobile application connecting daily-wage workers with job providers and employers across India. It features a Django REST Framework backend with PostgreSQL/SQLite, SimpleJWT authentication, a simulated Escrow payment state machine with 5% platform fee logic, GPS-based work verification, ratings/reviews, and a React Native (Expo) mobile frontend.
 
